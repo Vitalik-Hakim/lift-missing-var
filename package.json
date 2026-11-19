@@ -1,0 +1,8 @@
+{
+  "name": "lift-missing-var",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A seeded failure for Lift's autofix demo: the app exits without GREETING.",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=20" }
+}
